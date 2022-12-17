@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CSS and C++.
 - 💬 Ask me about new technologies.
 - 📫 How to reach me: https://linktr.ee/pranavmkale03
+
+
+![Linkedin](https://user-images.githubusercontent.com/107506777/208254168-0953bde1-96c7-4bba-b956-d66a6985de77.png)
