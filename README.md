@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on My Portfolio Website.
 - 🌱 I’m currently learning CSS and C++.
 - 💬 Ask me about new technologies.
-- 📫 How to reach me: https://linktr.ee/pranavmkale03
+- 📫 How to reach me : https://linktr.ee/pranavmkale03
