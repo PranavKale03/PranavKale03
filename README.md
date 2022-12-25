@@ -57,17 +57,27 @@
 </a>
 </div>
    
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>                                                                                                   
                                                                                                    
-<div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
-</div>                                                                                                   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PranavKale03&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="PranavKale03" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKale03&theme=dark" alt="PranavKale03" /></td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/PranavKale03.svg?style=social&label=Follow"></img>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavKale03&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="PranavKale03" /></p>
+  </div>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://gpvc.arturio.dev/PranavKale03"></img>
-</div>                                                                                                 
+![Snake Graph](https://github.com/PranavKale03/PranavKale03/blob/main/github-user-contribution.svg)
+
+<img src="https://github.com/PranavKale03/PranavKale03/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
+                                                                                                
                                                                                                                                                   
 ---
                                                                                                    
