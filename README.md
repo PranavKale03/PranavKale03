@@ -1,6 +1,6 @@
 [![GitHub Follow](https://img.shields.io/github/followers/PranavKale03?style=social&logo=github)](https://github.com/PranavKale03)
 
-# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03)
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Profile views](https://gpvc.arturio.dev/PranavKale03)
 
