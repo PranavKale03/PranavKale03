@@ -57,6 +57,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
+   
+---
+                                                                                                   
+<div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>                                                                                                   
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/PranavKale03.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/PranavKale03"></img>
+</div>                                                                                                 
                                                                                                                                                   
 ---
                                                                                                    
