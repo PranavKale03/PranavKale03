@@ -5,11 +5,30 @@
 
 Here are some ideas to get you started:
 -->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavKale03&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">
+</p>
+
+---
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=PranavKale03">
+</p>
+
+
+---
+
+
 - 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
 - 💻 I’m a passionate **coder and learner**.
 - 🔭 I really love❤️ to explore **new technologies**.
 - 💬 So you can ask me about new **technologies**.
 - 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
+
+
+
 
 
 <h1>My Skills 🛠</h1>
