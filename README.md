@@ -1,15 +1,15 @@
-### Hi there 👋 I am Pranav...
+<h1>Hey, 👋 I am <a href="https://www.linkedin.com/in/pranav-kale-2aa64822b/">Pranav Kale 🤝</a></h1>
 
 <!--
 **PranavKale03/PranavKale03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying Bachlor's of Engineering in D.Y. Patil College of Engineering, Akurdi, Pune
-- 🌱 I’m a passionate **coder**.
-- I really love to explore **new technologies**.
+- 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
+- 💻 I’m a passionate **coder**.
+- 🔭 I really love❤️ to explore **new technologies**.
 - 💬 So you can ask me about new **technologies**.
-- 📫 How to reach me : https://linktr.ee/pranavmkale03
+- 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
 
 
 <h1>My Skills 🛠</h1>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## Connect with me  
+## Connect with me 🤝  
 
 <div align="center">
  <a href=https://www.linkedin.com/in/pranav-kale-2aa64822b/" target="_blank">
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
                                                                                                                                                   
 ---
                                                                                                    
-Don't forget to leave a ⭐ from [here](https://github.com/PranavKale03) if you like 😁
+Don't forget to leave a ⭐ from [here](https://github.com/PranavKale03) if you like 😁 <br/>
 Thank you for visiting...
