@@ -57,15 +57,17 @@
 </a>
 </div>
    
-                                                                                                                                                                                               
----
+                                                                                                   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
-
+                                                                                                                
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
+ 
                                                                                           
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>                                                                                            
-                                                                                                   
+  
+                                                                                                                
 Don't forget to leave a ⭐ from [here](https://github.com/PranavKale03) if you like 😁 <br/>
 Thank you for visiting...
