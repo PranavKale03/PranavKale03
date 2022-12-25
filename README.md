@@ -27,7 +27,7 @@
 - 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>      
+--- 
 
 
 <h1>My Skills 🛠</h1>
@@ -64,6 +64,8 @@
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
+                                                                                          
+<img src="https://github.com/PranavKale03/PranavKale03/blob/main/anime.svg" alt="stacks" width = "100%"/>                                                                                          
  
                                                                                           
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>                                                                                            
