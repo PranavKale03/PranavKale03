@@ -1,10 +1,9 @@
-<h1>Hey, 👋 I am <a href="https://www.linkedin.com/in/pranav-kale-2aa64822b/">Pranav Kale 🤝</a></h1>
+[![GitHub Follow](https://img.shields.io/github/followers/PranavKale03?style=social&logo=github)](https://github.com/PranavKale03)
 
-<!--
-**PranavKale03/PranavKale03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03) <img src="./img/wave.gif" width="30px" height="30px" />
 
-Here are some ideas to get you started:
--->
+![Profile views](https://gpvc.arturio.dev/PranavKale03)
+
 ---
 
 <p align="center">
