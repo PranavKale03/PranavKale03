@@ -69,17 +69,10 @@
 ---
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavKale03&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="PranavKale03" /></p>
-  </div>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-![Snake Graph](https://github.com/PranavKale03/PranavKale03/blob/main/github-user-contribution.svg)
-
-<img src="https://github.com/PranavKale03/PranavKale03/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
-                                                                                                
-                                                                                                                                                  
----
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+                                                                                          
+---                                                                                         
                                                                                                    
 Don't forget to leave a ⭐ from [here](https://github.com/PranavKale03) if you like 😁 <br/>
 Thank you for visiting...
