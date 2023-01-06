@@ -23,6 +23,7 @@
 - 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
 - 💻 I’m a passionate **coder and learner**.
 - 🔭 I really love❤️ to explore **new technologies**.
+- 🔭 I am currently working on **AI Assistant project**.
 - 💬 So you can ask me about new **technologies**.
 - 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
 
