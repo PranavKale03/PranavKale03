@@ -64,6 +64,11 @@
 <a href="mailto:pranavmkale99@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+                                                                                                   
+<a href="https://wa.me/7030240803" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
+</a>
+                                                                                                   
 </div>
    
                                                                                                    
