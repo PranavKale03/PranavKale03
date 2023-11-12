@@ -1,4 +1,5 @@
 [![GitHub Follow](https://img.shields.io/github/followers/PranavKale03?style=social&logo=github)](https://github.com/PranavKale03)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavKale03&label=Profile%20views&color=0e75b6&style=flat" alt="PranavKale03" /> </p>
 
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
