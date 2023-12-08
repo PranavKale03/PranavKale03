@@ -4,7 +4,7 @@
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;UI/UX+Designer"></a>
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;UI/UX+Designer;Postman+API+Student+Expert;"></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 - 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
 - 💻 I’m a passionate **coder and learner**.
 - 🔭 I really love❤️ to explore **new technologies**.
-- 🔭 I am currently working on **AI Assistant project**.
+- 🔭 I am currently working on **startup**.
 - 💬 So you can ask me about new **technologies**.
 - 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
 
