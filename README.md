@@ -48,7 +48,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nextjs,nodejs,redux,postman,git,github,sass,c,cpp,androidstudio,arduino,raspberrypi,babel,codepen,express,figma,firebase,materialui,mongodb,mysql,netlify,vercel,replit,supabase,tailwind,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,redux,git,github,mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel&theme=dark&perline=15" />
   </a>
 </p>
 
