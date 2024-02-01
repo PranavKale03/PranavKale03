@@ -19,6 +19,9 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?&user=PranavKale03">
 </p>
 
+---
+
+[![An image of @pranavmkale99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavmkale99)](https://holopin.io/@pranavmkale99)
 
 ---
 
