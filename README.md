@@ -21,10 +21,6 @@
 
 ---
 
-[![An image of @pranavmkale99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavmkale99)](https://holopin.io/@pranavmkale99)
-
----
-
 
 - 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
 - 💻 I’m a passionate **coder and learner**.
@@ -54,6 +50,12 @@
     <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,redux,git,github,mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel&theme=dark&perline=15" />
   </a>
 </p>
+
+---
+
+[![An image of @pranavmkale99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavmkale99)](https://holopin.io/@pranavmkale99)
+
+---
 
 ## Connect with me 🤝  
 
