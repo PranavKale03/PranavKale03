@@ -9,6 +9,16 @@
 
 ---
 
+Hello everyone!
+
+I'm Pranav, the Top Gun of Tech at DYPCOE in his last second sortie of his flying career, soaring through the realms of AI and Data Science. As an ace coder in the digital skies, Pranav pilots React.js and Next.js to craft sleek, high-flying frontends, while commanding Node.js and MongoDB in the backend, executing precision data maneuvers.
+
+In the UI dogfights, my creative jets paint the screen with innovative designs, transforming concepts into visually stunning interfaces. I'm not just a coder; I'm a tech maverick, blending creativity with coding expertise.
+
+<a href="https://linktr.ee/pranavmkale03">Join me</a> on this high-altitude mission as he continues to break through the technological stratosphere, leaving a trail of innovation in my wake.
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranavKale03&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">
 </p>
@@ -18,17 +28,6 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?&user=PranavKale03">
 </p>
-
----
-
-
-- 🔭 I’m currently studying Bachlor's of Engineering in **Artificial Intelligence and Data Science** from D.Y. Patil College of Engineering, Akurdi, Pune
-- 💻 I’m a passionate **coder and learner**.
-- 🔭 I really love❤️ to explore **new technologies**.
-- 🔭 I am currently working on **startup**.
-- 💬 So you can ask me about new **technologies**.
-- 📫 How to reach me : <a href="https://linktr.ee/pranavmkale03">I really like to chitchat with you🤝</a>
-
 
 --- 
 
