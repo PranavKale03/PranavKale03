@@ -46,7 +46,7 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,babel,react,nextjs,nodejs,express,redux,git,github,mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,php,sass,tailwind,npm,pnpm,yarn,babel,react,nextjs,nodejs,nestjs,express,redux,flutter,git,github,githubactions,gitlab,aws,nginx, mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel,sentry,wordpress&theme=dark&perline=15" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
 ## Connect with me 🤝  
 
 <div align="center">
- <a href=https://www.linkedin.com/in/pranav-kale-2aa64822b/" target="_blank">
+ <a href=https://www.linkedin.com/in/kale-pranav/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
