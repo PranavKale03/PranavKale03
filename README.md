@@ -59,19 +59,19 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
 ## Connect with me 🤝  
 
 <div align="center">
- <a href=https://www.linkedin.com/in/kale-pranav/" target="_blank">
+ <a target="_blank" href="https://www.linkedin.com/in/kale-pranav/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/PranavKale03" target="_blank">
+<a target="_blank" href="https://github.com/PranavKale03">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
                                                                                                                                                   
-<a href="mailto:pranavmkale99@gmail.com" target="_blank">
+<a target="_blank" href="mailto:pranavmkale99@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
                                                                                                    
-<a href="https://wa.me/7030240803" target="_blank">
+<a target="_blank" href="https://wa.me/7030240803">
 <img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
 </a>
                                                                                                    
