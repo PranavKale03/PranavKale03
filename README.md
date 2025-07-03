@@ -46,7 +46,7 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,php,sass,tailwind,npm,pnpm,yarn,babel,react,nextjs,nodejs,nestjs,express,redux,flutter,git,github,githubactions,gitlab,aws,nginx, mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel,sentry,wordpress&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,ts,sass,tailwind,npm,pnpm,babel,react,nextjs,nodejs,nestjs,express,redux,flutter,git,github,githubactions,gitlab,aws,nginx,mongodb,firebase,supabase,vscode,postman,androidstudio,codepen,materialui,figma,arduino,raspberrypi,mysql,replit,netlify,vercel,sentry,wordpress&theme=dark&perline=15" />
   </a>
 </p>
 
