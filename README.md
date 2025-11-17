@@ -71,10 +71,6 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
                                                                                                    
-<a target="_blank" href="https://wa.me/7030240803">
-<img src="https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
-</a>
-                                                                                                   
 </div>
    
                                                                                                    
