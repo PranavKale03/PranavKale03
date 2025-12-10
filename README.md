@@ -4,7 +4,7 @@
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Pranav Kale](https://github.com/PranavKale03)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;UI/UX+Designer;Postman+API+Student+Expert;"></a>
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Engineer;UI/UX+Designer;Postman+API+Student+Expert;"></a>
 </p>
 
 ---
