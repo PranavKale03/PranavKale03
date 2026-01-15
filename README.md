@@ -20,16 +20,19 @@ In the UI dogfights, my creative jets paint the screen with innovative designs, 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavKale03&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=PranavKale03&border_radius=40%&show_icons=true&hide_border=true&theme=algolia"> -->
+  <img src="https://gitspulse.vercel.app/api/stats?user=PranavKale03">
 </p>
 
 ---
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=PranavKale03">
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?&user=PranavKale03"> -->
+   <img src="https://gitspulse.vercel.app/api/streak?user=PranavKale03">
 </p>
 
 --- 
+
 
 
 <h1>My Skills 🛠</h1>
