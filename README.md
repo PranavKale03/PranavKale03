@@ -15,7 +15,7 @@ I'm Pranav, the Top Gun of Tech at DYPCOE in his last second sortie of his flyin
 
 In the UI dogfights, my creative jets paint the screen with innovative designs, transforming concepts into visually stunning interfaces. I'm not just a coder; I'm a tech maverick, blending creativity with coding expertise.
 
-<a href="https://linktr.ee/pranavmkale03">Join me</a> on this high-altitude mission as he continues to break through the technological stratosphere, leaving a trail of innovation in my wake.
+<a href="https://www.linkedin.com/in/kale-pranav/" target="_blank">Join me</a> on this high-altitude mission as he continues to break through the technological stratosphere, leaving a trail of innovation in my wake.
 
 ---
 
